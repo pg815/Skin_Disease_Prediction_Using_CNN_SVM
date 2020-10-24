@@ -1,0 +1,1 @@
+Predicted skin disease is : Basal cell carcinoma
