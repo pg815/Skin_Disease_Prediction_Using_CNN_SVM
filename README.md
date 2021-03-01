@@ -12,3 +12,6 @@ $ python app.py
 
 3. In browser open URL localhost:5000
 
+4. To train the model change the path at line and . run the trainmodel.py using
+python trainmodel.py
+
