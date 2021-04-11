@@ -1,4 +1,4 @@
-# Skin_Disease_Prediction_Using_CNN
+# Skin_Disease_Prediction_Using_CNN_SVM
 
 Python code for skin disease classification using CNN
 
